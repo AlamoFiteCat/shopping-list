@@ -1,0 +1,16 @@
+{
+  "shopping": [
+    {
+      "id": "e18b9b51-c10b-455c-895b-df68f86669fd",
+      "name": "Dr. Pepper"
+    },
+    {
+      "id": "1aa3e55a-9bef-4f7b-841c-f49e01a635b6",
+      "name": "Coke Zero"
+    },
+    {
+      "id": "000f5745-c934-4ba7-8887-5f3a6e31411a",
+      "name": "Pepsi Max"
+    }
+  ]
+}
